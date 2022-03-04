@@ -1,5 +1,5 @@
 # online-audio-store
-A frontend and backend project for my portofolio. Still working on it.
+A simple frontend and backend project for my portofolio. Still working on it. Mainly built using ReactJS, ExpressJS, and MySQL
 
 ## How to use 
 Run these following command to run this project
